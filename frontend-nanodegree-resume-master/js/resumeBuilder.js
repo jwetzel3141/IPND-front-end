@@ -15,7 +15,7 @@ var bio = {
         },
         "welcomeMessage": "Primum non novere. First, do no harm. --Hippocrates",
         "skills": ["Poignant Sarcasm", "Delightful Analogies", "Expert-level classical piano playing", "Coffee Shop Patronage", "Enthusiastic Wine Tasting", "Generic Stoicism"],
-        "bioPic": "https://github.com/jwetzel3141/INPD_front_end/blob/master/jw015c_11-2015a.jpg?raw=true"
+        "bioPic": "https://github.com/jwetzel3141/IPND-front-end/blob/master/frontend-nanodegree-resume-master/images/jw015c_11-2015b.jpg?raw=true"
     } //var bio
 
 var work = {
